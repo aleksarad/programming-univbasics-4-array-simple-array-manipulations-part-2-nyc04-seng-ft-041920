@@ -7,5 +7,5 @@ def using_insert (arr, elem)
 end 
 
 def using_uniq (arr)
-  arr.uniq 
+  arr.uniq()
 end 
